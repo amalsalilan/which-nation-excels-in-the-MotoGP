@@ -5,3 +5,6 @@ What does the term "best" mean? The number of function Object() { [native code] 
 
 ![motogp img](https://user-images.githubusercontent.com/85513416/196240071-d1191849-2079-495e-b46b-ac3c222a4a1d.jpg)
 
+![Sheet 1](https://user-images.githubusercontent.com/85513416/196240344-9ca872e0-ddec-4ee4-99cb-c9e3fa3b3be7.png)
+
+
