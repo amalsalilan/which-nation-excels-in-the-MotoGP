@@ -1,5 +1,6 @@
 # which-nation-excels-in-the-MotoGP
-#The remainder of the code for this notebook will be pushed into a different repository because I am unable to do so with this one (the URL is provided below).
+#The remainder of the code for this notebook will be pushed into a different repository because I am unable to do so with this one (the URL is provided below):
+https://github.com/amalsalilan/MotoGP_EDA.git
 
 We will attempt to provide a response to the aforementioned query in this notebook, namely if Italy is the best country in terms of MotoGP performance.
 
