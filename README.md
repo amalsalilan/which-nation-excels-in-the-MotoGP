@@ -10,4 +10,10 @@ We will attempt to provide a response to the aforementioned query in this notebo
 ![Untitled design(1)](https://user-images.githubusercontent.com/
 
 
+The data is from kaggle and its contain all information on the motogp contains races,drivers' finishing positions,constructors,championships,information of drivers from 1949 until 2022
+
+
+
+
+
 
