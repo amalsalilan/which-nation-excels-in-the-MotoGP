@@ -13,8 +13,6 @@ We will attempt to provide a response to the aforementioned query in this notebo
 ![9](https://user-images.githubusercontent.com/85513416/205298701-f40f7d9e-1e08-44c9-8c71-a6860b0158d3.jpg)
 ![8](https://user-images.githubusercontent.com/85513416/205298724-97fbafb4-eb15-4802-a332-5f1a9a7140d7.jpg)
 ![3](https://user-images.githubusercontent.com/85513416/205298793-2b3f23ec-4e25-42df-a3ee-adbcf27458a8.jpg)
-
-![7](https://user-images.githubusercon
 ![5](https://user-images.githubusercontent.com/85513416/205298749-10e10131-db36-4b9e-9606-f3cca3bf8cea.jpg)
 ![6](https://user-images.githubusercontent.com/85513416/205298744-a175ff84-2a41-4f42-a507-004f301a29aa.jpg)
 
